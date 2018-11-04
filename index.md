@@ -5,5 +5,4 @@
 layout: home
 ---
 
-# My Blog
 ## Working on it...
