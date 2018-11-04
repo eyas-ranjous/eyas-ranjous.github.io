@@ -5,4 +5,5 @@
 layout: home
 ---
 
-My Blog | Working on it...
+My Blog
+working on it..
